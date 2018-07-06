@@ -58,3 +58,10 @@ h2{
 #partyTime{
   color: white;
 }
+
+.grid2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+}
+.span-row-4{grid-row: span 4 / auto;}
