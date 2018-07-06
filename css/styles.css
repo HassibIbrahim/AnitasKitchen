@@ -1,27 +1,32 @@
-<link href="https://fonts.googleapis.com/css?family=Markazi+Text|Open+Sans:300|Raleway:300&amp;subset=cyrillic,cyrillic-ext" rel="stylesheet">
-
-font-family: 'Markazi Text', serif;
-font-family: 'Open Sans', sans-serif;
-font-family: 'Raleway', sans-serif;
-
-h1 {
-  color: white;
-  text-align: center;
-}
-h2 {
-color: green;
-font-style: italic;
-text-align:center;
+body{
+  font-family: 'Markazi Text', serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
-p {
-  font-family: ;
+.jumbotron {
+  background-image: url("../img/backgrounds/landing.jpg");
+  background-size: 100% 100%;
+  background-position: center;
+
 }
 
-div {
-    background-color: lightblue;
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-p {
-    background-color: yellow;
+.logo{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.logoBig{
+  position: absolute
+  top: 50%;
+  left: 50%;
 }
