@@ -1,0 +1,24 @@
+<link href="https://fonts.googleapis.com/css?family=Markazi+Text|Open+Sans|Raleway" rel="stylesheet">
+
+
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+color: green;
+font-style: italic;
+text-align:center;
+}
+
+p {
+  font-family: ;
+}
+
+div {
+    background-color: lightblue;
+}
+
+p {
+    background-color: yellow;
+}
