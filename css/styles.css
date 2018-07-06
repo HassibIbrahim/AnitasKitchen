@@ -8,6 +8,7 @@ body{
   background-image: url("../img/backgrounds/landing.jpg");
   background-size: 100% 100%;
   background-position: center;
+  margin: 0%;
 
 }
 
@@ -40,3 +41,16 @@ body{
   color: white;
 
 }
+
+h2{
+  font-family: 'Markazi Text', serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.span-row-2{grid-row: span 2 / auto;}
