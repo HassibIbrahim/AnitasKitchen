@@ -30,3 +30,13 @@ body{
   top: 50%;
   left: 50%;
 }
+
+.print{
+  position: absolute;
+  top: 25%;
+  padding-right: 25%;
+  padding-left: 35%;
+  padding-top: 25%;
+  color: white;
+
+}
