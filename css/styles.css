@@ -1,5 +1,8 @@
-<link href="https://fonts.googleapis.com/css?family=Markazi+Text|Open+Sans|Raleway" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Markazi+Text|Open+Sans:300|Raleway:300&amp;subset=cyrillic,cyrillic-ext" rel="stylesheet">
 
+font-family: 'Markazi Text', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
 
 h1 {
   color: white;
