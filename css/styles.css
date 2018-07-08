@@ -65,3 +65,10 @@ h2{
     grid-gap: 15px;
 }
 .span-row-4{grid-row: span 4 / auto;}
+
+
+.grid3 {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 9px;
+}
